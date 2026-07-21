@@ -1,15 +1,15 @@
 Direct Messaging Chat - ICS department
 ============================================
 
-Description
+Description 📌
 -----------
-This program is a direct messaging application built using Python and Tkinter.
-It allows users to send and receive direct messages through the ICS 32
-Distributed Social Platform (DSP) server. Users can add contacts, send messages,
+This program is a direct messaging application built using Python and Tkinter. You can think of it as Messages but a more simple version. 
+It allows you to send and receive direct messages through the UCI ICS 32
+Distributed Social Platform (DSP) server. You can add contacts, send messages,
 and view message history. The application automatically retrieves new messages
 every 2 seconds without requiring manual refresh.
 
-Files
+Files 📁
 -----
 a5.py
     Main program file containing the Tkinter GUI implementation.
@@ -35,9 +35,10 @@ test_ds_message_protocol.py
 test_ds_messenger.py
     Unit tests for the ds_messenger module.
 
-How to Run
+How to Run 🏃
 ----------
-python3 a5.py
+Just type "python3 a5.py" in your terminal and wait for a few seconds.
+Grab some chips!
 
 Then:
 1. Click Settings -> Configure DS Server
@@ -47,7 +48,8 @@ Then:
 5. Click Send
 
 
-Note: The server at ics32.clotho.ics.uci.edu is only accessible 
+Warm tips: The server at ics32.clotho.ics.uci.edu is only accessible 
 from the UCI campus network. If you are off-campus, you must 
 connect to the UCI VPN before running this program.
+
 
